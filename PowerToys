@@ -1,6 +1,9 @@
 # Keyboard Settings
 
+Backup settings are in this link.
+https://github.com/Bing6000s/dotfiles/blob/main/settings_133873108295432744.ptb
 
+Example on how to create this profile:
 ### alt + number to switch to virtual desktop
 Install in powershell:
 `PS C:\> Install-Module VirtualDesktop`
