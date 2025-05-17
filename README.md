@@ -1,2 +1,4 @@
-# Neovim Configurations
- Neovim  Configuration for  Windows 11
+# Dotfiles
+
+
+Including dotfiles from both windows and arch.
