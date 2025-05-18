@@ -1,4 +1,4 @@
 # Dotfiles
 
+Personal dotfiles from both Windows 11 and Arch linux.
 
-Including dotfiles from both windows and arch.
